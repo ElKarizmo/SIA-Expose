@@ -1,0 +1,12 @@
+# Ignore LaTeX auxiliary files
+*.aux
+*.log
+*.synctex.gz
+*.out
+*.toc
+
+# Ignore the 'build' folder
+build/
+
+# Ignore all .bak (backup) files
+*.bak
